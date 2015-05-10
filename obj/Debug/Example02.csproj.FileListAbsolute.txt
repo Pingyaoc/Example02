@@ -1,0 +1,9 @@
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\bin\Debug\Example02.exe.config
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\bin\Debug\Example02.exe
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\bin\Debug\Example02.pdb
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.Form1.resources
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.Properties.Resources.resources
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.exe
+c:\users\pingyao\documents\visual studio 2013\Projects\[CS252]2015_05_08\Example02\obj\Debug\Example02.pdb
